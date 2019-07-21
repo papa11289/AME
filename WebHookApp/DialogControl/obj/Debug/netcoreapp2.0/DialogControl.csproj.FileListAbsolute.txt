@@ -1,0 +1,11 @@
+C:\Users\sudigupta\source\repos\WebHookApp\DialogControl\bin\Debug\netcoreapp2.0\DialogControl.deps.json
+C:\Users\sudigupta\source\repos\WebHookApp\DialogControl\bin\Debug\netcoreapp2.0\DialogControl.runtimeconfig.json
+C:\Users\sudigupta\source\repos\WebHookApp\DialogControl\bin\Debug\netcoreapp2.0\DialogControl.runtimeconfig.dev.json
+C:\Users\sudigupta\source\repos\WebHookApp\DialogControl\bin\Debug\netcoreapp2.0\DialogControl.dll
+C:\Users\sudigupta\source\repos\WebHookApp\DialogControl\obj\Debug\netcoreapp2.0\DialogControl.csprojAssemblyReference.cache
+C:\Users\sudigupta\source\repos\WebHookApp\DialogControl\obj\Debug\netcoreapp2.0\DialogControl.csproj.CoreCompileInputs.cache
+C:\Users\sudigupta\source\repos\WebHookApp\DialogControl\obj\Debug\netcoreapp2.0\DialogControl.AssemblyInfoInputs.cache
+C:\Users\sudigupta\source\repos\WebHookApp\DialogControl\obj\Debug\netcoreapp2.0\DialogControl.AssemblyInfo.cs
+C:\Users\sudigupta\source\repos\WebHookApp\DialogControl\bin\Debug\netcoreapp2.0\DialogControl.pdb
+C:\Users\sudigupta\source\repos\WebHookApp\DialogControl\obj\Debug\netcoreapp2.0\DialogControl.dll
+C:\Users\sudigupta\source\repos\WebHookApp\DialogControl\obj\Debug\netcoreapp2.0\DialogControl.pdb
